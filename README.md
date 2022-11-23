@@ -1,2 +1,2 @@
-# pidas.sort
+# pidas-sort
 Sort Implementations by pidas
